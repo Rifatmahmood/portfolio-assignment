@@ -1,0 +1,41 @@
+
+  .custom-navbar .nav-link, .custom-navbar .navbar-brand, .custom-navbar .navbar-toggler-icon {
+    color: white; /* White text color */
+  }
+  .custom-navbar .nav-link:hover {
+    color: #ffc107; /* Custom hover color */
+  }
+
+
+  .hero-section {
+    padding: 60px 0;
+  }
+  .hero-section .social-icons a {
+    margin-right: 15px;
+    color: #343a40;
+  }
+  .hero-section .social-icons a:hover {
+    color: #007bff;
+  }
+  .hero-section .btn-resume {
+    display: inline-flex;
+    align-items: center;
+  }
+  .hero-section .btn-resume i {
+    margin-right: 5px;
+  }
+
+  #portfolio-website {
+    padding-left: 10rem; 
+    padding-right: 10rem;
+  }
+
+  .small-container {
+    max-width: 400px;
+    margin: auto;
+  }
+
+  #vercel{
+    width: 1.5rem;
+    height: 1.5rem;
+  }
